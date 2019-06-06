@@ -1,4 +1,4 @@
-// Code by : Masood Firoozabadi
+// Code by : Sina Firoozabadi
 // Numbers are stored reversed !
 
 #include "Big_Number.h"
